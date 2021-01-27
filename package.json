@@ -1,0 +1,22 @@
+{
+  "name": "jest-another-rpg1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bretbret18/jest-another-RPG1.git"
+  },
+  "author": "Bretbret18",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bretbret18/jest-another-RPG1/issues"
+  },
+  "homepage": "https://github.com/Bretbret18/jest-another-RPG1#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
